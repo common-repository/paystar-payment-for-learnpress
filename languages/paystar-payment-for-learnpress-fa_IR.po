@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PayStar Payment Gateway for LearnPress\n"
+"POT-Creation-Date: 2021-11-11 02:03+0330\n"
+"PO-Revision-Date: 2021-11-11 02:04+0330\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: paystar.php:15
+msgid "paystar-payment-for-learnpress"
+msgstr "درگاه پرداخت پی استار برای افزونه لرن.پرس وردپرس"
+
+#: paystar.php:23
+msgid "Pay"
+msgstr "پرداخت"
+
+#: paystar.php:37 paystar.php:45
+msgid "Iranian Rial"
+msgstr "ریال ایران"
+
+#: paystar.php:38 paystar.php:46
+msgid "Iranian Toman"
+msgstr "تومان ایران"
+
+#: paystar.php:57 paystar.php:59 paystar.php:151 paystar.php:211
+msgid "PayStar"
+msgstr "پی استار"
+
+#: paystar.php:58 paystar.php:60
+msgid "Pay with PayStar"
+msgstr "پرداخت از طریق پی استار"
+
+#: paystar.php:72
+msgid "Enabled"
+msgstr "فعال"
+
+#: paystar.php:78
+msgid "PayStar Terminal"
+msgstr "شناسه درگاه"
+
+#: paystar.php:160
+msgid "PayStar settings is not setup"
+msgstr "تنظیمات پی استار پیکربندی نشده"
